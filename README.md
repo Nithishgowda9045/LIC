@@ -18,8 +18,7 @@ Procedure:
      well as to the resistor.
 
   3. Connect the source terminal to the ground.
-
-  4.Set the input voltage to 0.9 V and VDD to 1.8 V.
+  4 Set the input voltage to 0.9 V and VDD to 1.8 V.
 
 Using the formula for power,
 
