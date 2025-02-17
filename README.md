@@ -5,7 +5,7 @@ Linear integrated circuit
 # Expeiment-1
 Question : Given that POWER, P=100µ W; Perform DC Analysis, Transient Analysis and AC Analysis for the Given Circuit Designs and also check what happens when the width is increased or decreased of each mosfet
 # Design-1 :
-![Screenshot 2025-02-17 010622](https://github.com/user-attachments/assets/46233abf-9521-43fc-be66-c3df23eec67a)
+![LIC lab](https://github.com/user-attachments/assets/64ff5e7b-7353-416c-9b1a-d694c793eac8)
 
 Aim: TO find DC operating point,find gain using transient analysis and AC analysis.
 
@@ -106,7 +106,8 @@ The Graph below shows the AC Analysis of the Given Design;
 
 
 # DESIGN - 2 
-![Screenshot 2025-02-17 010844](https://github.com/user-attachments/assets/89df9849-00e4-4c90-9381-d835087cc479)
+
+![LIC l](https://github.com/user-attachments/assets/0a45a353-b4f5-4598-af83-c59bce2f8565)
 
 Aim : To find DC operating point, find gain using transient analysis and AC analysis.
 
