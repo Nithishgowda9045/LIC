@@ -101,7 +101,7 @@ The expected gain was greater than or equal to 10 V/V and the obtained gain is 1
 |Av(in dB)      | 20dB         | 24.6dB          |
 |Av(in V/V)     | 10           | 12.1         |
 
-##  For 1:3 Ratio#
+##  For 1:3 Ratio
 
 ## DC Analysis :
 
