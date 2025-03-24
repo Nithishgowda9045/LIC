@@ -61,7 +61,7 @@ The expected gain was greater than or equal to 10 V/V and the obtained gain is 1
 
   ![image](https://github.com/user-attachments/assets/6fc8a12b-7283-4764-ab6c-aeae89325547)
 
-  ![Screenshot 2025-03-22 155758](https://github.com/user-attachments/assets/e36365ee-5261-493a-b19f-1d09ead1ee02)
+  ![image](https://github.com/user-attachments/assets/6ebe2fad-ec48-40af-a9a3-639c6eabe391)
 
 |Parameter      |Theory value  | Practical value |
 |---------------|--------------|-----------------|
@@ -92,7 +92,8 @@ The expected gain was greater than or equal to 10 V/V and the obtained gain is 1
 
 ![image](https://github.com/user-attachments/assets/dc1ca419-f975-4354-9beb-719d9b64841e)
 
-![Screenshot 2025-03-22 162439](https://github.com/user-attachments/assets/344ca781-50ca-42e9-ba6b-70a3882a5dcc)
+![image](https://github.com/user-attachments/assets/c3af5d93-fb40-4fd7-9d6f-4dcaace5514b)
+
 
 
 |Parameter      |Theory value  | Practical value |
@@ -135,14 +136,16 @@ Perform DC analysis,trasient and AC analysis.
 
 ![image](https://github.com/user-attachments/assets/310c0e83-2375-4a25-9b68-6b8cdfe01c00)
 
-![image](https://github.com/user-attachments/assets/87239f42-871d-4397-983a-0846c46a296d)
+![image](https://github.com/user-attachments/assets/a60899c2-b97d-4058-8620-ff6ac2ebd926)
+
 
 ## AC Analysis:
 
 ![image](https://github.com/user-attachments/assets/5e734117-f0f4-4fcf-a7dd-2ce8648f617f)
 
 
-![a5](https://github.com/user-attachments/assets/6f85826b-afc4-4928-956d-1dadf4af64e4)
+![image](https://github.com/user-attachments/assets/abee97fc-e4f6-4bd5-9aaa-7e3a230abf2a)
+
 
 # Inference :
 The circuit functions as a differential amplifier, utilizing a current mirror to control the output (Vout), which responds to the voltage difference between V2 and V3. 
