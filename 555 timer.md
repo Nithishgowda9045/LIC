@@ -48,6 +48,8 @@ $$
 
 ## Output Waveform
 
+![image](https://github.com/user-attachments/assets/4ff3113f-d845-4684-b053-e50b7d29faac)
+
 
 In the above circuit, the output goes high when the trigger pulse voltage falls below one-third of the supply voltage (Vcc).
 
@@ -85,6 +87,25 @@ In the above circuit, the output goes high when the trigger pulse voltage falls 
 ![image](https://github.com/user-attachments/assets/c2f97c01-2db6-413b-bc8c-eb7d100cdd41)
 
 ## Waveform
+
+## case 1
+
+![image](https://github.com/user-attachments/assets/bdcbd7d8-b042-44d8-a02f-16989a367a90)
+
+## case 2
+
+![image](https://github.com/user-attachments/assets/bb0dabe9-f63f-4be1-9e6b-fbbc78f23174)
+
+## case 3
+
+ in case 3 the ton<toff which is not possible in astable Multivibrator , thus we can use an inverter to invert the pulse generated.
+ 
+![image](https://github.com/user-attachments/assets/62330045-4a0a-422d-b977-9699a629bb00)
+
+
+ ![image](https://github.com/user-attachments/assets/5974cd20-b140-48e9-b307-9e661e8e4906)
+
+
 
 ## Inference
 
