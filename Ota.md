@@ -27,12 +27,37 @@ To design and implement a modified current-reuse operational transconductance am
 - Improves gain-bandwidth product and power efficiency.
 
 ### 4. Common-Mode Feedback (CMFB)
+
 - Ensures balanced differential operation by stabilizing output common-mode voltage.
 
-## Circuit Diagram
-*(Note: The circuit diagram was referenced in the original document but not provided in the text. Include the LTspice schematic or a placeholder image here if available.)*
+## 5. Circuit Diagram
 
-## LTspice Simulation Results
+
+![image](https://github.com/user-attachments/assets/110d46d9-bcd6-4ac9-b80b-ebefba69b81b)
+
+##  6.  lt spice simulation result 
+
+
+![image](https://github.com/user-attachments/assets/84cb13ff-8d3b-4929-97c9-bffb68cb0819)
+
+## 7. operational point analysis
+
+![image](https://github.com/user-attachments/assets/38a4c424-4567-4a55-b29c-7e8b42882286)
+
+## 8.  output 
+
+* a) commom mode output
+  
+![image](https://github.com/user-attachments/assets/8f594120-6bbb-4401-9021-cbfa86ef5055)
+  
+* b) differential mode analysis
+  
+![image](https://github.com/user-attachments/assets/a75a5e31-c488-4dcf-b1b5-727362eb1abe)
+
+
+
+
+## 9.  LTspice Simulation Results
 - **Input**: (Details not fully specified in the provided document.)
 - **Operation Point Analysis**: (Details not fully specified in the provided document.)
 - **Output**:
